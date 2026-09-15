@@ -1,0 +1,1089 @@
+
+> my-app@0.1.0 start
+> react-scripts start
+
+(node:3097527) [DEP_WEBPACK_DEV_SERVER_ON_AFTER_SETUP_MIDDLEWARE] DeprecationWarning: 'onAfterSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:3097527) [DEP_WEBPACK_DEV_SERVER_ON_BEFORE_SETUP_MIDDLEWARE] DeprecationWarning: 'onBeforeSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+Starting the development server...
+
+Compiled successfully!
+
+You can now view my-app in the browser.
+
+  Local:            http://localhost:3000
+  On Your Network:  http://10.83.210.3:3000
+
+Note that the development build is not optimized.
+To create a production build, use npm run build.
+
+webpack compiled successfully
+npm ERR! path /home/appadm/Jsoncrack
+npm ERR! command failed
+npm ERR! signal SIGHUP
+npm ERR! command sh -c -- react-scripts start
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/appadm/.npm/_logs/2026-03-17T09_41_23_264Z-debug-0.log
+
+> my-app@0.1.0 start
+> react-scripts start
+
+Something is already running on port 8210.
+
+> my-app@0.1.0 start
+> react-scripts start
+
+Something is already running on port 8210.
+
+> my-app@0.1.0 start
+> react-scripts start
+
+Something is already running on port 8210.
+
+> my-app@0.1.0 start
+> react-scripts start
+
+(node:3101168) [DEP_WEBPACK_DEV_SERVER_ON_AFTER_SETUP_MIDDLEWARE] DeprecationWarning: 'onAfterSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:3101168) [DEP_WEBPACK_DEV_SERVER_ON_BEFORE_SETUP_MIDDLEWARE] DeprecationWarning: 'onBeforeSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+Starting the development server...
+
+Compiled successfully!
+
+You can now view my-app in the browser.
+
+  Local:            http://localhost:8210
+  On Your Network:  http://10.83.210.3:8210
+
+Note that the development build is not optimized.
+To create a production build, use npm run build.
+
+webpack compiled successfully
+Proxy error: Could not proxy request /api/customer from 10.83.210.3:8210 to http://localhost:5000.
+See https://nodejs.org/api/errors.html#errors_common_system_errors for more information (ECONNREFUSED).
+
+Proxy error: Could not proxy request /api/customer from 10.83.210.3:8210 to http://localhost:5000.
+See https://nodejs.org/api/errors.html#errors_common_system_errors for more information (ECONNREFUSED).
+
+Proxy error: Could not proxy request /api/customer from 10.83.210.3:8210 to http://localhost:5000.
+See https://nodejs.org/api/errors.html#errors_common_system_errors for more information (ECONNREFUSED).
+
+Proxy error: Could not proxy request /api/customer from 10.83.210.3:8210 to http://localhost:5000.
+See https://nodejs.org/api/errors.html#errors_common_system_errors for more information (ECONNREFUSED).
+
+Proxy error: Could not proxy request /api/customer from 10.83.210.3:8210 to http://localhost:5000.
+See https://nodejs.org/api/errors.html#errors_common_system_errors for more information (ECONNREFUSED).
+
+
+> my-app@0.1.0 start
+> react-scripts start
+
+Something is already running on port 8210.
+Proxy error: Could not proxy request /api/customer from 10.83.210.3:8210 to http://localhost:5000.
+See https://nodejs.org/api/errors.html#errors_common_system_errors for more information (ECONNREFUSED).
+
+
+> my-app@0.1.0 start
+> react-scripts start
+
+(node:3101470) [DEP_WEBPACK_DEV_SERVER_ON_AFTER_SETUP_MIDDLEWARE] DeprecationWarning: 'onAfterSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:3101470) [DEP_WEBPACK_DEV_SERVER_ON_BEFORE_SETUP_MIDDLEWARE] DeprecationWarning: 'onBeforeSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+Starting the development server...
+
+Compiled successfully!
+
+You can now view my-app in the browser.
+
+  Local:            http://localhost:8210
+  On Your Network:  http://10.83.210.3:8210
+
+Note that the development build is not optimized.
+To create a production build, use npm run build.
+
+webpack compiled successfully
+Proxy error: Could not proxy request /api/customer from 10.83.210.3:8210 to http://localhost:5000.
+See https://nodejs.org/api/errors.html#errors_common_system_errors for more information (ECONNREFUSED).
+
+Proxy error: Could not proxy request /api/customer from 10.83.210.3:8210 to http://localhost:5000.
+See https://nodejs.org/api/errors.html#errors_common_system_errors for more information (ECONNREFUSED).
+
+Proxy error: Could not proxy request /api/customer from 10.83.210.3:8210 to http://localhost:5000.
+See https://nodejs.org/api/errors.html#errors_common_system_errors for more information (ECONNREFUSED).
+
+Proxy error: Could not proxy request /api/customer from 10.83.210.3:8210 to http://localhost:5000.
+See https://nodejs.org/api/errors.html#errors_common_system_errors for more information (ECONNREFUSED).
+
+Proxy error: Could not proxy request /api/customer from 10.83.210.3:8210 to http://localhost:5000.
+See https://nodejs.org/api/errors.html#errors_common_system_errors for more information (ECONNREFUSED).
+
+Proxy error: Could not proxy request /api/customer from 10.83.210.3:8210 to http://localhost:5000.
+See https://nodejs.org/api/errors.html#errors_common_system_errors for more information (ECONNREFUSED).
+
+Proxy error: Could not proxy request /api/customer from 10.83.210.3:8210 to http://localhost:5000.
+See https://nodejs.org/api/errors.html#errors_common_system_errors for more information (ECONNREFUSED).
+
+Proxy error: Could not proxy request /api/customer from 10.83.210.3:8210 to http://localhost:5000.
+See https://nodejs.org/api/errors.html#errors_common_system_errors for more information (ECONNREFUSED).
+
+Proxy error: Could not proxy request /api/customer from 10.83.210.3:8210 to http://localhost:5000.
+See https://nodejs.org/api/errors.html#errors_common_system_errors for more information (ECONNREFUSED).
+
+Proxy error: Could not proxy request /api/customer from 10.83.210.3:8210 to http://localhost:5000.
+See https://nodejs.org/api/errors.html#errors_common_system_errors for more information (ECONNREFUSED).
+
+Proxy error: Could not proxy request /api/customer from 10.83.210.3:8210 to http://localhost:5000.
+See https://nodejs.org/api/errors.html#errors_common_system_errors for more information (ECONNREFUSED).
+
+Proxy error: Could not proxy request /api/customer from 10.83.210.3:8210 to http://localhost:5000.
+See https://nodejs.org/api/errors.html#errors_common_system_errors for more information (ECONNREFUSED).
+
+
+> my-app@0.1.0 start
+> react-scripts start
+
+(node:3101598) [DEP_WEBPACK_DEV_SERVER_ON_AFTER_SETUP_MIDDLEWARE] DeprecationWarning: 'onAfterSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:3101598) [DEP_WEBPACK_DEV_SERVER_ON_BEFORE_SETUP_MIDDLEWARE] DeprecationWarning: 'onBeforeSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+Starting the development server...
+
+Compiled successfully!
+
+You can now view my-app in the browser.
+
+  Local:            http://localhost:8210
+  On Your Network:  http://10.83.210.3:8210
+
+Note that the development build is not optimized.
+To create a production build, use npm run build.
+
+webpack compiled successfully
+Proxy error: Could not proxy request /api/customer from 10.83.210.3:8210 to http://localhost:5000.
+See https://nodejs.org/api/errors.html#errors_common_system_errors for more information (ECONNREFUSED).
+
+Proxy error: Could not proxy request /api/customer from 10.83.210.3:8210 to http://localhost:5000.
+See https://nodejs.org/api/errors.html#errors_common_system_errors for more information (ECONNREFUSED).
+
+Proxy error: Could not proxy request /api/customer from 10.83.210.3:8210 to http://localhost:5000.
+See https://nodejs.org/api/errors.html#errors_common_system_errors for more information (ECONNREFUSED).
+
+Proxy error: Could not proxy request /api/customer from 10.83.210.3:8210 to http://localhost:5000.
+See https://nodejs.org/api/errors.html#errors_common_system_errors for more information (ECONNREFUSED).
+
+Proxy error: Could not proxy request /api/customer from 10.83.210.3:8210 to http://localhost:5000.
+See https://nodejs.org/api/errors.html#errors_common_system_errors for more information (ECONNREFUSED).
+
+Proxy error: Could not proxy request /api/customer from 10.83.210.3:8210 to http://localhost:5000.
+See https://nodejs.org/api/errors.html#errors_common_system_errors for more information (ECONNREFUSED).
+
+
+> my-app@0.1.0 start
+> react-scripts start
+
+(node:3101959) [DEP_WEBPACK_DEV_SERVER_ON_AFTER_SETUP_MIDDLEWARE] DeprecationWarning: 'onAfterSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:3101959) [DEP_WEBPACK_DEV_SERVER_ON_BEFORE_SETUP_MIDDLEWARE] DeprecationWarning: 'onBeforeSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+Starting the development server...
+
+Compiled successfully!
+
+You can now view my-app in the browser.
+
+  Local:            http://localhost:8210
+  On Your Network:  http://10.83.210.3:8210
+
+Note that the development build is not optimized.
+To create a production build, use npm run build.
+
+webpack compiled successfully
+Proxy error: Could not proxy request /api/customer from 10.83.210.3:8210 to http://localhost:5000.
+See https://nodejs.org/api/errors.html#errors_common_system_errors for more information (ECONNREFUSED).
+
+Proxy error: Could not proxy request /api/customer from 10.83.210.3:8210 to http://localhost:5000.
+See https://nodejs.org/api/errors.html#errors_common_system_errors for more information (ECONNREFUSED).
+
+Proxy error: Could not proxy request /api/customer from 10.83.210.3:8210 to http://localhost:5000.
+See https://nodejs.org/api/errors.html#errors_common_system_errors for more information (ECONNREFUSED).
+
+Proxy error: Could not proxy request /api/customer from 10.83.210.3:8210 to http://localhost:5000.
+See https://nodejs.org/api/errors.html#errors_common_system_errors for more information (ECONNREFUSED).
+
+Proxy error: Could not proxy request /api/customer from 10.83.210.3:8210 to http://localhost:5000.
+See https://nodejs.org/api/errors.html#errors_common_system_errors for more information (ECONNREFUSED).
+
+
+> my-app@0.1.0 start
+> react-scripts start
+
+(node:3102084) [DEP_WEBPACK_DEV_SERVER_ON_AFTER_SETUP_MIDDLEWARE] DeprecationWarning: 'onAfterSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:3102084) [DEP_WEBPACK_DEV_SERVER_ON_BEFORE_SETUP_MIDDLEWARE] DeprecationWarning: 'onBeforeSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+Starting the development server...
+
+Compiled successfully!
+
+You can now view my-app in the browser.
+
+  Local:            http://localhost:8210
+  On Your Network:  http://10.83.210.3:8210
+
+Note that the development build is not optimized.
+To create a production build, use npm run build.
+
+webpack compiled successfully
+Proxy error: Could not proxy request /api/customer from 10.83.210.3:8210 to http://localhost:5000.
+See https://nodejs.org/api/errors.html#errors_common_system_errors for more information (ECONNREFUSED).
+
+Proxy error: Could not proxy request /api/customer from 10.83.210.3:8210 to http://localhost:5000.
+See https://nodejs.org/api/errors.html#errors_common_system_errors for more information (ECONNREFUSED).
+
+Proxy error: Could not proxy request /api/transaction from 10.83.210.3:8210 to http://localhost:5000.
+See https://nodejs.org/api/errors.html#errors_common_system_errors for more information (ECONNREFUSED).
+
+Compiling...
+Failed to compile.
+
+Module not found: Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: No file content
+ERROR in Module not found: Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: No file content
+
+ERROR in Module not found: Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: No file content
+
+ERROR in main
+Module not found: Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: No file content
+
+ERROR in Module not found: Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: No file content
+
+ERROR in Error: Child compilation failed:
+  Module not found: Error: /home/appadm/Jsoncrack/package.json (directory descri  ption file): Error: /home/appadm/Jsoncrack/package.json (directory description   file): Error: /home/appadm/Jsoncrack/package.json (directory description file  ): Error: /home/appadm/Jsoncrack/package.json (directory description file): Er  ror: /home/appadm/Jsoncrack/package.json (directory description file): Error:   No file content
+  ModuleNotFoundError: Module not found: Error: /home/appadm/Jsoncrack/package.j  son (directory description file): Error: /home/appadm/Jsoncrack/package.json (  directory description file): Error: /home/appadm/Jsoncrack/package.json (direc  tory description file): Error: /home/appadm/Jsoncrack/package.json (directory   description file): Error: /home/appadm/Jsoncrack/package.json (directory descr  iption file): Error: No file content
+      at /home/appadm/Jsoncrack/node_modules/webpack/lib/Compilation.js:2073:28
+      at /home/appadm/Jsoncrack/node_modules/webpack/lib/NormalModuleFactory.js:  1041:13
+      at eval (eval at create (/home/appadm/Jsoncrack/node_modules/tapable/lib/H  ookCodeFactory.js:31:10), <anonymous>:10:1)
+      at /home/appadm/Jsoncrack/node_modules/webpack/lib/NormalModuleFactory.js:  437:22
+      at eval (eval at create (/home/appadm/Jsoncrack/node_modules/tapable/lib/H  ookCodeFactory.js:31:10), <anonymous>:9:1)
+      at /home/appadm/Jsoncrack/node_modules/webpack/lib/NormalModuleFactory.js:  622:22
+      at /home/appadm/Jsoncrack/node_modules/webpack/lib/NormalModuleFactory.js:  185:10
+      at /home/appadm/Jsoncrack/node_modules/webpack/lib/NormalModuleFactory.js:  856:23
+      at /home/appadm/Jsoncrack/node_modules/webpack/lib/NormalModuleFactory.js:  1351:5
+      at /home/appadm/Jsoncrack/node_modules/neo-async/async.js:2830:7
+  
+  - Compilation.js:2073 
+    [Jsoncrack]/[webpack]/lib/Compilation.js:2073:28
+  
+  - NormalModuleFactory.js:1041 
+    [Jsoncrack]/[webpack]/lib/NormalModuleFactory.js:1041:13
+  
+  
+  - NormalModuleFactory.js:437 
+    [Jsoncrack]/[webpack]/lib/NormalModuleFactory.js:437:22
+  
+  
+  - NormalModuleFactory.js:622 
+    [Jsoncrack]/[webpack]/lib/NormalModuleFactory.js:622:22
+  
+  - NormalModuleFactory.js:185 
+    [Jsoncrack]/[webpack]/lib/NormalModuleFactory.js:185:10
+  
+  - NormalModuleFactory.js:856 
+    [Jsoncrack]/[webpack]/lib/NormalModuleFactory.js:856:23
+  
+  - NormalModuleFactory.js:1351 
+    [Jsoncrack]/[webpack]/lib/NormalModuleFactory.js:1351:5
+  
+  - async.js:2830 
+    [Jsoncrack]/[neo-async]/async.js:2830:7
+  
+  - child-compiler.js:211 
+    [Jsoncrack]/[html-webpack-plugin]/lib/child-compiler.js:211:18
+  
+  - Compiler.js:648 finalCallback
+    [Jsoncrack]/[webpack]/lib/Compiler.js:648:5
+  
+  - Compiler.js:684 
+    [Jsoncrack]/[webpack]/lib/Compiler.js:684:11
+  
+  - Compiler.js:1379 
+    [Jsoncrack]/[webpack]/lib/Compiler.js:1379:17
+  
+  
+  - Hook.js:21 Hook.CALL_ASYNC_DELEGATE [as _callAsync]
+    [Jsoncrack]/[tapable]/lib/Hook.js:21:14
+  
+  - Compiler.js:1375 
+    [Jsoncrack]/[webpack]/lib/Compiler.js:1375:33
+  
+  - Compilation.js:3183 finalCallback
+    [Jsoncrack]/[webpack]/lib/Compilation.js:3183:11
+  
+  - Compilation.js:3521 
+    [Jsoncrack]/[webpack]/lib/Compilation.js:3521:11
+
+1 ERROR in child compilations (Use 'stats.children: true' resp. '--stats-children' for more details)
+webpack compiled with 6 errors
+Compiling...
+Compiled successfully!
+webpack compiled successfully
+
+> my-app@0.1.0 start
+> react-scripts start
+
+(node:3103623) [DEP_WEBPACK_DEV_SERVER_ON_AFTER_SETUP_MIDDLEWARE] DeprecationWarning: 'onAfterSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:3103623) [DEP_WEBPACK_DEV_SERVER_ON_BEFORE_SETUP_MIDDLEWARE] DeprecationWarning: 'onBeforeSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+Starting the development server...
+
+Compiled with warnings.
+
+[eslint] 
+src/JsonCrackViewer.js
+  Line 7:22:  'setDimensions' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/JsonCrackViewer.js
+  Line 7:22:  'setDimensions' is assigned a value but never used  no-unused-vars
+
+webpack compiled with 1 warning
+npm ERR! path /home/appadm/Jsoncrack
+npm ERR! command failed
+npm ERR! signal SIGHUP
+npm ERR! command sh -c -- react-scripts start
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/appadm/.npm/_logs/2026-03-17T11_32_26_206Z-debug-0.log
+
+> my-app@0.1.0 start
+> react-scripts start
+
+(node:3104906) [DEP_WEBPACK_DEV_SERVER_ON_AFTER_SETUP_MIDDLEWARE] DeprecationWarning: 'onAfterSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:3104906) [DEP_WEBPACK_DEV_SERVER_ON_BEFORE_SETUP_MIDDLEWARE] DeprecationWarning: 'onBeforeSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+Starting the development server...
+
+Compiled successfully!
+
+You can now view my-app in the browser.
+
+  Local:            http://localhost:8210
+  On Your Network:  http://10.83.210.3:8210
+
+Note that the development build is not optimized.
+To create a production build, use npm run build.
+
+webpack compiled successfully
+Compiling...
+Compiled successfully!
+webpack compiled successfully
+Compiling...
+Compiled successfully!
+webpack compiled successfully
+Compiling...
+Compiled successfully!
+webpack compiled successfully
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/App.js
+  Line 1:1:    Unexpected Unicode BOM (Byte Order Mark)                unicode-bom
+  Line 34:10:  'sqlMessageIds' is assigned a value but never used      no-unused-vars
+  Line 35:10:  'sqlSelectedId' is assigned a value but never used      no-unused-vars
+  Line 36:10:  'sqlQuery' is assigned a value but never used           no-unused-vars
+  Line 37:10:  'sqlFlatRows' is assigned a value but never used        no-unused-vars
+  Line 38:10:  'sqlFlatColumns' is assigned a value but never used     no-unused-vars
+  Line 39:10:  'sqlFlatWarning' is assigned a value but never used     no-unused-vars
+  Line 40:10:  'sqlDropdownOpen' is assigned a value but never used    no-unused-vars
+  Line 41:10:  'sqlIdsLoading' is assigned a value but never used      no-unused-vars
+  Line 42:10:  'sqlFlatLoading' is assigned a value but never used     no-unused-vars
+  Line 43:10:  'sqlIdsError' is assigned a value but never used        no-unused-vars
+  Line 44:10:  'sqlFlatError' is assigned a value but never used       no-unused-vars
+  Line 214:9:  'handleSqlSubType' is assigned a value but never used   no-unused-vars
+  Line 225:9:  'handleSqlSelectId' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/App.js
+  Line 1:1:    Unexpected Unicode BOM (Byte Order Mark)                unicode-bom
+  Line 34:10:  'sqlMessageIds' is assigned a value but never used      no-unused-vars
+  Line 35:10:  'sqlSelectedId' is assigned a value but never used      no-unused-vars
+  Line 36:10:  'sqlQuery' is assigned a value but never used           no-unused-vars
+  Line 37:10:  'sqlFlatRows' is assigned a value but never used        no-unused-vars
+  Line 38:10:  'sqlFlatColumns' is assigned a value but never used     no-unused-vars
+  Line 39:10:  'sqlFlatWarning' is assigned a value but never used     no-unused-vars
+  Line 40:10:  'sqlDropdownOpen' is assigned a value but never used    no-unused-vars
+  Line 41:10:  'sqlIdsLoading' is assigned a value but never used      no-unused-vars
+  Line 42:10:  'sqlFlatLoading' is assigned a value but never used     no-unused-vars
+  Line 43:10:  'sqlIdsError' is assigned a value but never used        no-unused-vars
+  Line 44:10:  'sqlFlatError' is assigned a value but never used       no-unused-vars
+  Line 214:9:  'handleSqlSubType' is assigned a value but never used   no-unused-vars
+  Line 225:9:  'handleSqlSelectId' is assigned a value but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/App.js
+  Line 1:1:    Unexpected Unicode BOM (Byte Order Mark)                unicode-bom
+  Line 34:10:  'sqlMessageIds' is assigned a value but never used      no-unused-vars
+  Line 35:10:  'sqlSelectedId' is assigned a value but never used      no-unused-vars
+  Line 36:10:  'sqlQuery' is assigned a value but never used           no-unused-vars
+  Line 37:10:  'sqlFlatRows' is assigned a value but never used        no-unused-vars
+  Line 38:10:  'sqlFlatColumns' is assigned a value but never used     no-unused-vars
+  Line 39:10:  'sqlFlatWarning' is assigned a value but never used     no-unused-vars
+  Line 40:10:  'sqlDropdownOpen' is assigned a value but never used    no-unused-vars
+  Line 41:10:  'sqlIdsLoading' is assigned a value but never used      no-unused-vars
+  Line 42:10:  'sqlFlatLoading' is assigned a value but never used     no-unused-vars
+  Line 43:10:  'sqlIdsError' is assigned a value but never used        no-unused-vars
+  Line 44:10:  'sqlFlatError' is assigned a value but never used       no-unused-vars
+  Line 214:9:  'handleSqlSubType' is assigned a value but never used   no-unused-vars
+  Line 225:9:  'handleSqlSelectId' is assigned a value but never used  no-unused-vars
+
+src/JsonCrackViewer.js
+  Line 7:22:  'setDimensions' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/App.js
+  Line 1:1:    Unexpected Unicode BOM (Byte Order Mark)                unicode-bom
+  Line 34:10:  'sqlMessageIds' is assigned a value but never used      no-unused-vars
+  Line 35:10:  'sqlSelectedId' is assigned a value but never used      no-unused-vars
+  Line 36:10:  'sqlQuery' is assigned a value but never used           no-unused-vars
+  Line 37:10:  'sqlFlatRows' is assigned a value but never used        no-unused-vars
+  Line 38:10:  'sqlFlatColumns' is assigned a value but never used     no-unused-vars
+  Line 39:10:  'sqlFlatWarning' is assigned a value but never used     no-unused-vars
+  Line 40:10:  'sqlDropdownOpen' is assigned a value but never used    no-unused-vars
+  Line 41:10:  'sqlIdsLoading' is assigned a value but never used      no-unused-vars
+  Line 42:10:  'sqlFlatLoading' is assigned a value but never used     no-unused-vars
+  Line 43:10:  'sqlIdsError' is assigned a value but never used        no-unused-vars
+  Line 44:10:  'sqlFlatError' is assigned a value but never used       no-unused-vars
+  Line 214:9:  'handleSqlSubType' is assigned a value but never used   no-unused-vars
+  Line 225:9:  'handleSqlSelectId' is assigned a value but never used  no-unused-vars
+
+src/JsonCrackViewer.js
+  Line 7:22:  'setDimensions' is assigned a value but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Failed to compile.
+
+Module not found: Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: No file content
+WARNING in [eslint] 
+src/App.js
+  Line 1:1:    Unexpected Unicode BOM (Byte Order Mark)                unicode-bom
+  Line 34:10:  'sqlMessageIds' is assigned a value but never used      no-unused-vars
+  Line 35:10:  'sqlSelectedId' is assigned a value but never used      no-unused-vars
+  Line 36:10:  'sqlQuery' is assigned a value but never used           no-unused-vars
+  Line 37:10:  'sqlFlatRows' is assigned a value but never used        no-unused-vars
+  Line 38:10:  'sqlFlatColumns' is assigned a value but never used     no-unused-vars
+  Line 39:10:  'sqlFlatWarning' is assigned a value but never used     no-unused-vars
+  Line 40:10:  'sqlDropdownOpen' is assigned a value but never used    no-unused-vars
+  Line 41:10:  'sqlIdsLoading' is assigned a value but never used      no-unused-vars
+  Line 42:10:  'sqlFlatLoading' is assigned a value but never used     no-unused-vars
+  Line 43:10:  'sqlIdsError' is assigned a value but never used        no-unused-vars
+  Line 44:10:  'sqlFlatError' is assigned a value but never used       no-unused-vars
+  Line 214:9:  'handleSqlSubType' is assigned a value but never used   no-unused-vars
+  Line 225:9:  'handleSqlSelectId' is assigned a value but never used  no-unused-vars
+
+src/JsonCrackViewer.js
+  Line 7:22:  'setDimensions' is assigned a value but never used  no-unused-vars
+
+ERROR in Module not found: Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: No file content
+
+ERROR in Module not found: Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: No file content
+
+ERROR in main
+Module not found: Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: No file content
+
+ERROR in Module not found: Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: No file content
+
+ERROR in Error: Child compilation failed:
+  Module not found: Error: /home/appadm/Jsoncrack/package.json (directory descri  ption file): Error: /home/appadm/Jsoncrack/package.json (directory description   file): Error: /home/appadm/Jsoncrack/package.json (directory description file  ): Error: /home/appadm/Jsoncrack/package.json (directory description file): Er  ror: /home/appadm/Jsoncrack/package.json (directory description file): Error:   No file content
+  ModuleNotFoundError: Module not found: Error: /home/appadm/Jsoncrack/package.j  son (directory description file): Error: /home/appadm/Jsoncrack/package.json (  directory description file): Error: /home/appadm/Jsoncrack/package.json (direc  tory description file): Error: /home/appadm/Jsoncrack/package.json (directory   description file): Error: /home/appadm/Jsoncrack/package.json (directory descr  iption file): Error: No file content
+      at /home/appadm/Jsoncrack/node_modules/webpack/lib/Compilation.js:2073:28
+      at /home/appadm/Jsoncrack/node_modules/webpack/lib/NormalModuleFactory.js:  1041:13
+      at eval (eval at create (/home/appadm/Jsoncrack/node_modules/tapable/lib/H  ookCodeFactory.js:31:10), <anonymous>:10:1)
+      at /home/appadm/Jsoncrack/node_modules/webpack/lib/NormalModuleFactory.js:  437:22
+      at eval (eval at create (/home/appadm/Jsoncrack/node_modules/tapable/lib/H  ookCodeFactory.js:31:10), <anonymous>:9:1)
+      at /home/appadm/Jsoncrack/node_modules/webpack/lib/NormalModuleFactory.js:  622:22
+      at /home/appadm/Jsoncrack/node_modules/webpack/lib/NormalModuleFactory.js:  185:10
+      at /home/appadm/Jsoncrack/node_modules/webpack/lib/NormalModuleFactory.js:  856:23
+      at /home/appadm/Jsoncrack/node_modules/webpack/lib/NormalModuleFactory.js:  1351:5
+      at /home/appadm/Jsoncrack/node_modules/neo-async/async.js:2830:7
+      at done (/home/appadm/Jsoncrack/node_modules/neo-async/async.js:2925:13)
+      at /home/appadm/Jsoncrack/node_modules/webpack/lib/NormalModuleFactory.js:  1314:23
+      at /home/appadm/Jsoncrack/node_modules/enhanced-resolve/lib/Resolver.js:64  2:21
+      at /home/appadm/Jsoncrack/node_modules/enhanced-resolve/lib/Resolver.js:73  7:21
+      at eval (eval at create (/home/appadm/Jsoncrack/node_modules/tapable/lib/H  ookCodeFactory.js:31:10), <anonymous>:24:1)
+      at done (/home/appadm/Jsoncrack/node_modules/webpack/lib/cache/ResolverCac  hePlugin.js:371:13)
+      at /home/appadm/Jsoncrack/node_modules/webpack/lib/cache/ResolverCachePlug  in.js:198:22
+      at /home/appadm/Jsoncrack/node_modules/enhanced-resolve/lib/Resolver.js:73  7:21
+      at eval (eval at create (/home/appadm/Jsoncrack/node_modules/tapable/lib/H  ookCodeFactory.js:31:10), <anonymous>:10:1)
+      at /home/appadm/Jsoncrack/node_modules/enhanced-resolve/lib/Resolver.js:73  7:21
+      at eval (eval at create (/home/appadm/Jsoncrack/node_modules/tapable/lib/H  ookCodeFactory.js:31:10), <anonymous>:24:1)
+      at /home/appadm/Jsoncrack/node_modules/enhanced-resolve/lib/DescriptionFil  ePlugin.js:60:24
+      at /home/appadm/Jsoncrack/node_modules/enhanced-resolve/lib/DescriptionFil  eUtils.js:160:21
+      at /home/appadm/Jsoncrack/node_modules/enhanced-resolve/lib/forEachBail.js  :39:13
+      at onJson (/home/appadm/Jsoncrack/node_modules/enhanced-resolve/lib/Descri  ptionFileUtils.js:94:14)
+      at /home/appadm/Jsoncrack/node_modules/enhanced-resolve/lib/DescriptionFil  eUtils.js:118:15
+      at runCallbacks (/home/appadm/Jsoncrack/node_modules/enhanced-resolve/lib/  CachedInputFileSystem.js:53:4)
+      at /home/appadm/Jsoncrack/node_modules/enhanced-resolve/lib/CachedInputFil  eSystem.js:291:5
+      at Array.<anonymous> (/home/appadm/Jsoncrack/node_modules/enhanced-resolve  /lib/CachedInputFileSystem.js:604:18)
+      at runCallbacks (/home/appadm/Jsoncrack/node_modules/enhanced-resolve/lib/  CachedInputFileSystem.js:46:15)
+      at /home/appadm/Jsoncrack/node_modules/enhanced-resolve/lib/CachedInputFil  eSystem.js:291:5
+      at /home/appadm/Jsoncrack/node_modules/graceful-fs/graceful-fs.js:123:16
+      at FSReqCallback.readFileAfterClose [as oncomplete] (node:internal/fs/read  _file_context:68:3)
+  
+  - Compilation.js:2073 
+    [Jsoncrack]/[webpack]/lib/Compilation.js:2073:28
+  
+  - NormalModuleFactory.js:1041 
+    [Jsoncrack]/[webpack]/lib/NormalModuleFactory.js:1041:13
+  
+  
+  - NormalModuleFactory.js:437 
+    [Jsoncrack]/[webpack]/lib/NormalModuleFactory.js:437:22
+  
+  
+  - NormalModuleFactory.js:622 
+    [Jsoncrack]/[webpack]/lib/NormalModuleFactory.js:622:22
+  
+  - NormalModuleFactory.js:185 
+    [Jsoncrack]/[webpack]/lib/NormalModuleFactory.js:185:10
+  
+  - NormalModuleFactory.js:856 
+    [Jsoncrack]/[webpack]/lib/NormalModuleFactory.js:856:23
+  
+  - NormalModuleFactory.js:1351 
+    [Jsoncrack]/[webpack]/lib/NormalModuleFactory.js:1351:5
+  
+  - async.js:2830 
+    [Jsoncrack]/[neo-async]/async.js:2830:7
+  
+  - async.js:2925 done
+    [Jsoncrack]/[neo-async]/async.js:2925:13
+  
+  - NormalModuleFactory.js:1314 
+    [Jsoncrack]/[webpack]/lib/NormalModuleFactory.js:1314:23
+  
+  - Resolver.js:642 
+    [Jsoncrack]/[enhanced-resolve]/lib/Resolver.js:642:21
+  
+  - Resolver.js:737 
+    [Jsoncrack]/[enhanced-resolve]/lib/Resolver.js:737:21
+  
+  
+  - ResolverCachePlugin.js:371 done
+    [Jsoncrack]/[webpack]/lib/cache/ResolverCachePlugin.js:371:13
+  
+  - ResolverCachePlugin.js:198 
+    [Jsoncrack]/[webpack]/lib/cache/ResolverCachePlugin.js:198:22
+  
+  - Resolver.js:737 
+    [Jsoncrack]/[enhanced-resolve]/lib/Resolver.js:737:21
+  
+  
+  - Resolver.js:737 
+    [Jsoncrack]/[enhanced-resolve]/lib/Resolver.js:737:21
+  
+  
+  - DescriptionFilePlugin.js:60 
+    [Jsoncrack]/[enhanced-resolve]/lib/DescriptionFilePlugin.js:60:24
+  
+  - DescriptionFileUtils.js:160 
+    [Jsoncrack]/[enhanced-resolve]/lib/DescriptionFileUtils.js:160:21
+  
+  - forEachBail.js:39 
+    [Jsoncrack]/[enhanced-resolve]/lib/forEachBail.js:39:13
+  
+  - DescriptionFileUtils.js:94 onJson
+    [Jsoncrack]/[enhanced-resolve]/lib/DescriptionFileUtils.js:94:14
+  
+  - DescriptionFileUtils.js:118 
+    [Jsoncrack]/[enhanced-resolve]/lib/DescriptionFileUtils.js:118:15
+  
+  - CachedInputFileSystem.js:53 runCallbacks
+    [Jsoncrack]/[enhanced-resolve]/lib/CachedInputFileSystem.js:53:4
+  
+  - CachedInputFileSystem.js:291 
+    [Jsoncrack]/[enhanced-resolve]/lib/CachedInputFileSystem.js:291:5
+  
+  - CachedInputFileSystem.js:604 Array.<anonymous>
+    [Jsoncrack]/[enhanced-resolve]/lib/CachedInputFileSystem.js:604:18
+  
+  - CachedInputFileSystem.js:46 runCallbacks
+    [Jsoncrack]/[enhanced-resolve]/lib/CachedInputFileSystem.js:46:15
+  
+  - CachedInputFileSystem.js:291 
+    [Jsoncrack]/[enhanced-resolve]/lib/CachedInputFileSystem.js:291:5
+  
+  - graceful-fs.js:123 
+    [Jsoncrack]/[graceful-fs]/graceful-fs.js:123:16
+  
+  - read_file_context:68 FSReqCallback.readFileAfterClose [as oncomplete]
+    node:internal/fs/read_file_context:68:3
+  
+  - child-compiler.js:211 
+    [Jsoncrack]/[html-webpack-plugin]/lib/child-compiler.js:211:18
+  
+  - Compiler.js:648 finalCallback
+    [Jsoncrack]/[webpack]/lib/Compiler.js:648:5
+  
+  - Compiler.js:684 
+    [Jsoncrack]/[webpack]/lib/Compiler.js:684:11
+  
+  - Compiler.js:1379 
+    [Jsoncrack]/[webpack]/lib/Compiler.js:1379:17
+  
+  
+  - Hook.js:21 Hook.CALL_ASYNC_DELEGATE [as _callAsync]
+    [Jsoncrack]/[tapable]/lib/Hook.js:21:14
+  
+  - Compiler.js:1375 
+    [Jsoncrack]/[webpack]/lib/Compiler.js:1375:33
+  
+  - Compilation.js:3183 finalCallback
+    [Jsoncrack]/[webpack]/lib/Compilation.js:3183:11
+  
+  - Compilation.js:3521 
+    [Jsoncrack]/[webpack]/lib/Compilation.js:3521:11
+  
+  
+  - Hook.js:21 Hook.CALL_ASYNC_DELEGATE [as _callAsync]
+    [Jsoncrack]/[tapable]/lib/Hook.js:21:14
+  
+  - Compilation.js:3514 
+    [Jsoncrack]/[webpack]/lib/Compilation.js:3514:38
+  
+  
+  - Compilation.js:653 
+    [Jsoncrack]/[webpack]/lib/Compilation.js:653:11
+  
+  - SourceMapDevToolPlugin.js:635 
+    [Jsoncrack]/[webpack]/lib/SourceMapDevToolPlugin.js:635:10
+  
+  - async.js:2830 
+    [Jsoncrack]/[neo-async]/async.js:2830:7
+  
+  - async.js:2857 Object.each
+    [Jsoncrack]/[neo-async]/async.js:2857:9
+  
+  - SourceMapDevToolPlugin.js:426 
+    [Jsoncrack]/[webpack]/lib/SourceMapDevToolPlugin.js:426:17
+
+1 ERROR in child compilations (Use 'stats.children: true' resp. '--stats-children' for more details)
+webpack compiled with 6 errors and 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/App.js
+  Line 1:1:    Unexpected Unicode BOM (Byte Order Mark)                unicode-bom
+  Line 34:10:  'sqlMessageIds' is assigned a value but never used      no-unused-vars
+  Line 35:10:  'sqlSelectedId' is assigned a value but never used      no-unused-vars
+  Line 36:10:  'sqlQuery' is assigned a value but never used           no-unused-vars
+  Line 37:10:  'sqlFlatRows' is assigned a value but never used        no-unused-vars
+  Line 38:10:  'sqlFlatColumns' is assigned a value but never used     no-unused-vars
+  Line 39:10:  'sqlFlatWarning' is assigned a value but never used     no-unused-vars
+  Line 40:10:  'sqlDropdownOpen' is assigned a value but never used    no-unused-vars
+  Line 41:10:  'sqlIdsLoading' is assigned a value but never used      no-unused-vars
+  Line 42:10:  'sqlFlatLoading' is assigned a value but never used     no-unused-vars
+  Line 43:10:  'sqlIdsError' is assigned a value but never used        no-unused-vars
+  Line 44:10:  'sqlFlatError' is assigned a value but never used       no-unused-vars
+  Line 214:9:  'handleSqlSubType' is assigned a value but never used   no-unused-vars
+  Line 225:9:  'handleSqlSelectId' is assigned a value but never used  no-unused-vars
+
+src/JsonCrackViewer.js
+  Line 7:22:  'setDimensions' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/App.js
+  Line 1:1:    Unexpected Unicode BOM (Byte Order Mark)                unicode-bom
+  Line 34:10:  'sqlMessageIds' is assigned a value but never used      no-unused-vars
+  Line 35:10:  'sqlSelectedId' is assigned a value but never used      no-unused-vars
+  Line 36:10:  'sqlQuery' is assigned a value but never used           no-unused-vars
+  Line 37:10:  'sqlFlatRows' is assigned a value but never used        no-unused-vars
+  Line 38:10:  'sqlFlatColumns' is assigned a value but never used     no-unused-vars
+  Line 39:10:  'sqlFlatWarning' is assigned a value but never used     no-unused-vars
+  Line 40:10:  'sqlDropdownOpen' is assigned a value but never used    no-unused-vars
+  Line 41:10:  'sqlIdsLoading' is assigned a value but never used      no-unused-vars
+  Line 42:10:  'sqlFlatLoading' is assigned a value but never used     no-unused-vars
+  Line 43:10:  'sqlIdsError' is assigned a value but never used        no-unused-vars
+  Line 44:10:  'sqlFlatError' is assigned a value but never used       no-unused-vars
+  Line 214:9:  'handleSqlSubType' is assigned a value but never used   no-unused-vars
+  Line 225:9:  'handleSqlSelectId' is assigned a value but never used  no-unused-vars
+
+src/JsonCrackViewer.js
+  Line 7:22:  'setDimensions' is assigned a value but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/App.js
+  Line 1:1:    Unexpected Unicode BOM (Byte Order Mark)                unicode-bom
+  Line 34:10:  'sqlMessageIds' is assigned a value but never used      no-unused-vars
+  Line 35:10:  'sqlSelectedId' is assigned a value but never used      no-unused-vars
+  Line 36:10:  'sqlQuery' is assigned a value but never used           no-unused-vars
+  Line 37:10:  'sqlFlatRows' is assigned a value but never used        no-unused-vars
+  Line 38:10:  'sqlFlatColumns' is assigned a value but never used     no-unused-vars
+  Line 39:10:  'sqlFlatWarning' is assigned a value but never used     no-unused-vars
+  Line 40:10:  'sqlDropdownOpen' is assigned a value but never used    no-unused-vars
+  Line 41:10:  'sqlIdsLoading' is assigned a value but never used      no-unused-vars
+  Line 42:10:  'sqlFlatLoading' is assigned a value but never used     no-unused-vars
+  Line 43:10:  'sqlIdsError' is assigned a value but never used        no-unused-vars
+  Line 44:10:  'sqlFlatError' is assigned a value but never used       no-unused-vars
+  Line 214:9:  'handleSqlSubType' is assigned a value but never used   no-unused-vars
+  Line 225:9:  'handleSqlSelectId' is assigned a value but never used  no-unused-vars
+
+src/JsonCrackViewer.js
+  Line 7:22:  'setDimensions' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/App.js
+  Line 1:1:    Unexpected Unicode BOM (Byte Order Mark)                unicode-bom
+  Line 34:10:  'sqlMessageIds' is assigned a value but never used      no-unused-vars
+  Line 35:10:  'sqlSelectedId' is assigned a value but never used      no-unused-vars
+  Line 36:10:  'sqlQuery' is assigned a value but never used           no-unused-vars
+  Line 37:10:  'sqlFlatRows' is assigned a value but never used        no-unused-vars
+  Line 38:10:  'sqlFlatColumns' is assigned a value but never used     no-unused-vars
+  Line 39:10:  'sqlFlatWarning' is assigned a value but never used     no-unused-vars
+  Line 40:10:  'sqlDropdownOpen' is assigned a value but never used    no-unused-vars
+  Line 41:10:  'sqlIdsLoading' is assigned a value but never used      no-unused-vars
+  Line 42:10:  'sqlFlatLoading' is assigned a value but never used     no-unused-vars
+  Line 43:10:  'sqlIdsError' is assigned a value but never used        no-unused-vars
+  Line 44:10:  'sqlFlatError' is assigned a value but never used       no-unused-vars
+  Line 214:9:  'handleSqlSubType' is assigned a value but never used   no-unused-vars
+  Line 225:9:  'handleSqlSelectId' is assigned a value but never used  no-unused-vars
+
+src/JsonCrackViewer.js
+  Line 7:22:  'setDimensions' is assigned a value but never used  no-unused-vars
+
+webpack compiled with 1 warning
+Failed to compile.
+
+Error: ENOENT: no such file or directory, open '/home/appadm/Jsoncrack/node_modules/d3/src/index.js'
+WARNING in [eslint] 
+src/App.js
+  Line 1:1:    Unexpected Unicode BOM (Byte Order Mark)                unicode-bom
+  Line 34:10:  'sqlMessageIds' is assigned a value but never used      no-unused-vars
+  Line 35:10:  'sqlSelectedId' is assigned a value but never used      no-unused-vars
+  Line 36:10:  'sqlQuery' is assigned a value but never used           no-unused-vars
+  Line 37:10:  'sqlFlatRows' is assigned a value but never used        no-unused-vars
+  Line 38:10:  'sqlFlatColumns' is assigned a value but never used     no-unused-vars
+  Line 39:10:  'sqlFlatWarning' is assigned a value but never used     no-unused-vars
+  Line 40:10:  'sqlDropdownOpen' is assigned a value but never used    no-unused-vars
+  Line 41:10:  'sqlIdsLoading' is assigned a value but never used      no-unused-vars
+  Line 42:10:  'sqlFlatLoading' is assigned a value but never used     no-unused-vars
+  Line 43:10:  'sqlIdsError' is assigned a value but never used        no-unused-vars
+  Line 44:10:  'sqlFlatError' is assigned a value but never used       no-unused-vars
+  Line 214:9:  'handleSqlSubType' is assigned a value but never used   no-unused-vars
+  Line 225:9:  'handleSqlSelectId' is assigned a value but never used  no-unused-vars
+
+src/JsonCrackViewer.js
+  Line 7:22:  'setDimensions' is assigned a value but never used  no-unused-vars
+
+ERROR in ./node_modules/d3/src/index.js
+Module build failed (from ./node_modules/source-map-loader/dist/cjs.js):
+Error: ENOENT: no such file or directory, open '/home/appadm/Jsoncrack/node_modules/d3/src/index.js'
+
+webpack compiled with 1 error and 1 warning
+Compiling...
+Failed to compile.
+
+Module not found: Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: No file content
+WARNING in [eslint] 
+src/App.js
+  Line 1:1:    Unexpected Unicode BOM (Byte Order Mark)                unicode-bom
+  Line 34:10:  'sqlMessageIds' is assigned a value but never used      no-unused-vars
+  Line 35:10:  'sqlSelectedId' is assigned a value but never used      no-unused-vars
+  Line 36:10:  'sqlQuery' is assigned a value but never used           no-unused-vars
+  Line 37:10:  'sqlFlatRows' is assigned a value but never used        no-unused-vars
+  Line 38:10:  'sqlFlatColumns' is assigned a value but never used     no-unused-vars
+  Line 39:10:  'sqlFlatWarning' is assigned a value but never used     no-unused-vars
+  Line 40:10:  'sqlDropdownOpen' is assigned a value but never used    no-unused-vars
+  Line 41:10:  'sqlIdsLoading' is assigned a value but never used      no-unused-vars
+  Line 42:10:  'sqlFlatLoading' is assigned a value but never used     no-unused-vars
+  Line 43:10:  'sqlIdsError' is assigned a value but never used        no-unused-vars
+  Line 44:10:  'sqlFlatError' is assigned a value but never used       no-unused-vars
+  Line 214:9:  'handleSqlSubType' is assigned a value but never used   no-unused-vars
+  Line 225:9:  'handleSqlSelectId' is assigned a value but never used  no-unused-vars
+
+src/JsonCrackViewer.js
+  Line 7:22:  'setDimensions' is assigned a value but never used  no-unused-vars
+
+ERROR in Module not found: Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: No file content
+
+ERROR in Module not found: Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: No file content
+
+ERROR in main
+Module not found: Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: No file content
+
+ERROR in Module not found: Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: /home/appadm/Jsoncrack/package.json (directory description file): Error: No file content
+
+ERROR in Error: Child compilation failed:
+  Module not found: Error: /home/appadm/Jsoncrack/package.json (directory descri  ption file): Error: /home/appadm/Jsoncrack/package.json (directory description   file): Error: /home/appadm/Jsoncrack/package.json (directory description file  ): Error: /home/appadm/Jsoncrack/package.json (directory description file): Er  ror: /home/appadm/Jsoncrack/package.json (directory description file): Error:   No file content
+  ModuleNotFoundError: Module not found: Error: /home/appadm/Jsoncrack/package.j  son (directory description file): Error: /home/appadm/Jsoncrack/package.json (  directory description file): Error: /home/appadm/Jsoncrack/package.json (direc  tory description file): Error: /home/appadm/Jsoncrack/package.json (directory   description file): Error: /home/appadm/Jsoncrack/package.json (directory descr  iption file): Error: No file content
+      at /home/appadm/Jsoncrack/node_modules/webpack/lib/Compilation.js:2073:28
+      at /home/appadm/Jsoncrack/node_modules/webpack/lib/NormalModuleFactory.js:  1041:13
+      at eval (eval at create (/home/appadm/Jsoncrack/node_modules/tapable/lib/H  ookCodeFactory.js:31:10), <anonymous>:10:1)
+      at /home/appadm/Jsoncrack/node_modules/webpack/lib/NormalModuleFactory.js:  437:22
+      at eval (eval at create (/home/appadm/Jsoncrack/node_modules/tapable/lib/H  ookCodeFactory.js:31:10), <anonymous>:9:1)
+      at /home/appadm/Jsoncrack/node_modules/webpack/lib/NormalModuleFactory.js:  622:22
+      at /home/appadm/Jsoncrack/node_modules/webpack/lib/NormalModuleFactory.js:  185:10
+      at /home/appadm/Jsoncrack/node_modules/webpack/lib/NormalModuleFactory.js:  856:23
+      at /home/appadm/Jsoncrack/node_modules/webpack/lib/NormalModuleFactory.js:  1351:5
+      at /home/appadm/Jsoncrack/node_modules/neo-async/async.js:2830:7
+      at done (/home/appadm/Jsoncrack/node_modules/neo-async/async.js:2925:13)
+      at /home/appadm/Jsoncrack/node_modules/webpack/lib/NormalModuleFactory.js:  1314:23
+      at /home/appadm/Jsoncrack/node_modules/enhanced-resolve/lib/Resolver.js:64  2:21
+      at /home/appadm/Jsoncrack/node_modules/enhanced-resolve/lib/Resolver.js:73  7:21
+      at eval (eval at create (/home/appadm/Jsoncrack/node_modules/tapable/lib/H  ookCodeFactory.js:31:10), <anonymous>:24:1)
+      at done (/home/appadm/Jsoncrack/node_modules/webpack/lib/cache/ResolverCac  hePlugin.js:371:13)
+      at /home/appadm/Jsoncrack/node_modules/webpack/lib/cache/ResolverCachePlug  in.js:198:22
+      at /home/appadm/Jsoncrack/node_modules/enhanced-resolve/lib/Resolver.js:73  7:21
+      at eval (eval at create (/home/appadm/Jsoncrack/node_modules/tapable/lib/H  ookCodeFactory.js:31:10), <anonymous>:10:1)
+      at /home/appadm/Jsoncrack/node_modules/enhanced-resolve/lib/Resolver.js:73  7:21
+      at eval (eval at create (/home/appadm/Jsoncrack/node_modules/tapable/lib/H  ookCodeFactory.js:31:10), <anonymous>:24:1)
+      at /home/appadm/Jsoncrack/node_modules/enhanced-resolve/lib/DescriptionFil  ePlugin.js:60:24
+      at /home/appadm/Jsoncrack/node_modules/enhanced-resolve/lib/DescriptionFil  eUtils.js:160:21
+      at /home/appadm/Jsoncrack/node_modules/enhanced-resolve/lib/forEachBail.js  :39:13
+      at onJson (/home/appadm/Jsoncrack/node_modules/enhanced-resolve/lib/Descri  ptionFileUtils.js:94:14)
+      at /home/appadm/Jsoncrack/node_modules/enhanced-resolve/lib/DescriptionFil  eUtils.js:118:15
+      at runCallbacks (/home/appadm/Jsoncrack/node_modules/enhanced-resolve/lib/  CachedInputFileSystem.js:53:4)
+      at /home/appadm/Jsoncrack/node_modules/enhanced-resolve/lib/CachedInputFil  eSystem.js:291:5
+      at Array.<anonymous> (/home/appadm/Jsoncrack/node_modules/enhanced-resolve  /lib/CachedInputFileSystem.js:604:18)
+      at runCallbacks (/home/appadm/Jsoncrack/node_modules/enhanced-resolve/lib/  CachedInputFileSystem.js:46:15)
+      at /home/appadm/Jsoncrack/node_modules/enhanced-resolve/lib/CachedInputFil  eSystem.js:291:5
+      at /home/appadm/Jsoncrack/node_modules/graceful-fs/graceful-fs.js:123:16
+      at FSReqCallback.readFileAfterClose [as oncomplete] (node:internal/fs/read  _file_context:68:3)
+  
+  - Compilation.js:2073 
+    [Jsoncrack]/[webpack]/lib/Compilation.js:2073:28
+  
+  - NormalModuleFactory.js:1041 
+    [Jsoncrack]/[webpack]/lib/NormalModuleFactory.js:1041:13
+  
+  
+  - NormalModuleFactory.js:437 
+    [Jsoncrack]/[webpack]/lib/NormalModuleFactory.js:437:22
+  
+  
+  - NormalModuleFactory.js:622 
+    [Jsoncrack]/[webpack]/lib/NormalModuleFactory.js:622:22
+  
+  - NormalModuleFactory.js:185 
+    [Jsoncrack]/[webpack]/lib/NormalModuleFactory.js:185:10
+  
+  - NormalModuleFactory.js:856 
+    [Jsoncrack]/[webpack]/lib/NormalModuleFactory.js:856:23
+  
+  - NormalModuleFactory.js:1351 
+    [Jsoncrack]/[webpack]/lib/NormalModuleFactory.js:1351:5
+  
+  - async.js:2830 
+    [Jsoncrack]/[neo-async]/async.js:2830:7
+  
+  - async.js:2925 done
+    [Jsoncrack]/[neo-async]/async.js:2925:13
+  
+  - NormalModuleFactory.js:1314 
+    [Jsoncrack]/[webpack]/lib/NormalModuleFactory.js:1314:23
+  
+  - Resolver.js:642 
+    [Jsoncrack]/[enhanced-resolve]/lib/Resolver.js:642:21
+  
+  - Resolver.js:737 
+    [Jsoncrack]/[enhanced-resolve]/lib/Resolver.js:737:21
+  
+  
+  - ResolverCachePlugin.js:371 done
+    [Jsoncrack]/[webpack]/lib/cache/ResolverCachePlugin.js:371:13
+  
+  - ResolverCachePlugin.js:198 
+    [Jsoncrack]/[webpack]/lib/cache/ResolverCachePlugin.js:198:22
+  
+  - Resolver.js:737 
+    [Jsoncrack]/[enhanced-resolve]/lib/Resolver.js:737:21
+  
+  
+  - Resolver.js:737 
+    [Jsoncrack]/[enhanced-resolve]/lib/Resolver.js:737:21
+  
+  
+  - DescriptionFilePlugin.js:60 
+    [Jsoncrack]/[enhanced-resolve]/lib/DescriptionFilePlugin.js:60:24
+  
+  - DescriptionFileUtils.js:160 
+    [Jsoncrack]/[enhanced-resolve]/lib/DescriptionFileUtils.js:160:21
+  
+  - forEachBail.js:39 
+    [Jsoncrack]/[enhanced-resolve]/lib/forEachBail.js:39:13
+  
+  - DescriptionFileUtils.js:94 onJson
+    [Jsoncrack]/[enhanced-resolve]/lib/DescriptionFileUtils.js:94:14
+  
+  - DescriptionFileUtils.js:118 
+    [Jsoncrack]/[enhanced-resolve]/lib/DescriptionFileUtils.js:118:15
+  
+  - CachedInputFileSystem.js:53 runCallbacks
+    [Jsoncrack]/[enhanced-resolve]/lib/CachedInputFileSystem.js:53:4
+  
+  - CachedInputFileSystem.js:291 
+    [Jsoncrack]/[enhanced-resolve]/lib/CachedInputFileSystem.js:291:5
+  
+  - CachedInputFileSystem.js:604 Array.<anonymous>
+    [Jsoncrack]/[enhanced-resolve]/lib/CachedInputFileSystem.js:604:18
+  
+  - CachedInputFileSystem.js:46 runCallbacks
+    [Jsoncrack]/[enhanced-resolve]/lib/CachedInputFileSystem.js:46:15
+  
+  - CachedInputFileSystem.js:291 
+    [Jsoncrack]/[enhanced-resolve]/lib/CachedInputFileSystem.js:291:5
+  
+  - graceful-fs.js:123 
+    [Jsoncrack]/[graceful-fs]/graceful-fs.js:123:16
+  
+  - read_file_context:68 FSReqCallback.readFileAfterClose [as oncomplete]
+    node:internal/fs/read_file_context:68:3
+  
+  - child-compiler.js:211 
+    [Jsoncrack]/[html-webpack-plugin]/lib/child-compiler.js:211:18
+  
+  - Compiler.js:648 finalCallback
+    [Jsoncrack]/[webpack]/lib/Compiler.js:648:5
+  
+  - Compiler.js:684 
+    [Jsoncrack]/[webpack]/lib/Compiler.js:684:11
+  
+  - Compiler.js:1379 
+    [Jsoncrack]/[webpack]/lib/Compiler.js:1379:17
+  
+  
+  - Hook.js:21 Hook.CALL_ASYNC_DELEGATE [as _callAsync]
+    [Jsoncrack]/[tapable]/lib/Hook.js:21:14
+  
+  - Compiler.js:1375 
+    [Jsoncrack]/[webpack]/lib/Compiler.js:1375:33
+  
+  - Compilation.js:3183 finalCallback
+    [Jsoncrack]/[webpack]/lib/Compilation.js:3183:11
+  
+  - Compilation.js:3521 
+    [Jsoncrack]/[webpack]/lib/Compilation.js:3521:11
+  
+  
+  - Hook.js:21 Hook.CALL_ASYNC_DELEGATE [as _callAsync]
+    [Jsoncrack]/[tapable]/lib/Hook.js:21:14
+  
+  - Compilation.js:3514 
+    [Jsoncrack]/[webpack]/lib/Compilation.js:3514:38
+  
+  
+  - Compilation.js:653 
+    [Jsoncrack]/[webpack]/lib/Compilation.js:653:11
+  
+  - SourceMapDevToolPlugin.js:635 
+    [Jsoncrack]/[webpack]/lib/SourceMapDevToolPlugin.js:635:10
+  
+  - async.js:2830 
+    [Jsoncrack]/[neo-async]/async.js:2830:7
+  
+  - async.js:2857 Object.each
+    [Jsoncrack]/[neo-async]/async.js:2857:9
+  
+  - SourceMapDevToolPlugin.js:426 
+    [Jsoncrack]/[webpack]/lib/SourceMapDevToolPlugin.js:426:17
+
+1 ERROR in child compilations (Use 'stats.children: true' resp. '--stats-children' for more details)
+webpack compiled with 6 errors and 1 warning
+Compiling...
+Failed to compile.
+
+Error: ENOENT: no such file or directory, open '/home/appadm/Jsoncrack/node_modules/d3/src/index.js'
+WARNING in [eslint] 
+src/App.js
+  Line 1:1:    Unexpected Unicode BOM (Byte Order Mark)                unicode-bom
+  Line 34:10:  'sqlMessageIds' is assigned a value but never used      no-unused-vars
+  Line 35:10:  'sqlSelectedId' is assigned a value but never used      no-unused-vars
+  Line 36:10:  'sqlQuery' is assigned a value but never used           no-unused-vars
+  Line 37:10:  'sqlFlatRows' is assigned a value but never used        no-unused-vars
+  Line 38:10:  'sqlFlatColumns' is assigned a value but never used     no-unused-vars
+  Line 39:10:  'sqlFlatWarning' is assigned a value but never used     no-unused-vars
+  Line 40:10:  'sqlDropdownOpen' is assigned a value but never used    no-unused-vars
+  Line 41:10:  'sqlIdsLoading' is assigned a value but never used      no-unused-vars
+  Line 42:10:  'sqlFlatLoading' is assigned a value but never used     no-unused-vars
+  Line 43:10:  'sqlIdsError' is assigned a value but never used        no-unused-vars
+  Line 44:10:  'sqlFlatError' is assigned a value but never used       no-unused-vars
+  Line 214:9:  'handleSqlSubType' is assigned a value but never used   no-unused-vars
+  Line 225:9:  'handleSqlSelectId' is assigned a value but never used  no-unused-vars
+
+src/JsonCrackViewer.js
+  Line 7:22:  'setDimensions' is assigned a value but never used  no-unused-vars
+
+ERROR in ./node_modules/d3/src/index.js
+Module build failed (from ./node_modules/source-map-loader/dist/cjs.js):
+Error: ENOENT: no such file or directory, open '/home/appadm/Jsoncrack/node_modules/d3/src/index.js'
+
+webpack compiled with 1 error and 1 warning
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/App.js
+  Line 1:1:    Unexpected Unicode BOM (Byte Order Mark)                unicode-bom
+  Line 34:10:  'sqlMessageIds' is assigned a value but never used      no-unused-vars
+  Line 35:10:  'sqlSelectedId' is assigned a value but never used      no-unused-vars
+  Line 36:10:  'sqlQuery' is assigned a value but never used           no-unused-vars
+  Line 37:10:  'sqlFlatRows' is assigned a value but never used        no-unused-vars
+  Line 38:10:  'sqlFlatColumns' is assigned a value but never used     no-unused-vars
+  Line 39:10:  'sqlFlatWarning' is assigned a value but never used     no-unused-vars
+  Line 40:10:  'sqlDropdownOpen' is assigned a value but never used    no-unused-vars
+  Line 41:10:  'sqlIdsLoading' is assigned a value but never used      no-unused-vars
+  Line 42:10:  'sqlFlatLoading' is assigned a value but never used     no-unused-vars
+  Line 43:10:  'sqlIdsError' is assigned a value but never used        no-unused-vars
+  Line 44:10:  'sqlFlatError' is assigned a value but never used       no-unused-vars
+  Line 214:9:  'handleSqlSubType' is assigned a value but never used   no-unused-vars
+  Line 225:9:  'handleSqlSelectId' is assigned a value but never used  no-unused-vars
+
+src/JsonCrackViewer.js
+  Line 7:22:  'setDimensions' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/App.js
+  Line 1:1:    Unexpected Unicode BOM (Byte Order Mark)                unicode-bom
+  Line 34:10:  'sqlMessageIds' is assigned a value but never used      no-unused-vars
+  Line 35:10:  'sqlSelectedId' is assigned a value but never used      no-unused-vars
+  Line 36:10:  'sqlQuery' is assigned a value but never used           no-unused-vars
+  Line 37:10:  'sqlFlatRows' is assigned a value but never used        no-unused-vars
+  Line 38:10:  'sqlFlatColumns' is assigned a value but never used     no-unused-vars
+  Line 39:10:  'sqlFlatWarning' is assigned a value but never used     no-unused-vars
+  Line 40:10:  'sqlDropdownOpen' is assigned a value but never used    no-unused-vars
+  Line 41:10:  'sqlIdsLoading' is assigned a value but never used      no-unused-vars
+  Line 42:10:  'sqlFlatLoading' is assigned a value but never used     no-unused-vars
+  Line 43:10:  'sqlIdsError' is assigned a value but never used        no-unused-vars
+  Line 44:10:  'sqlFlatError' is assigned a value but never used       no-unused-vars
+  Line 214:9:  'handleSqlSubType' is assigned a value but never used   no-unused-vars
+  Line 225:9:  'handleSqlSelectId' is assigned a value but never used  no-unused-vars
+
+src/JsonCrackViewer.js
+  Line 7:22:  'setDimensions' is assigned a value but never used  no-unused-vars
+
+webpack compiled with 1 warning
